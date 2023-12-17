@@ -1,4 +1,5 @@
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Spyder](https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon)
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -58,7 +59,7 @@ A análise dos dados é realizada em várias etapas:
 
 As tecnologias utilizadas até o momento neste projeto são:
 
-1. **IDE Jupyter Notebook**
+1. **IDE's: Jupyter Notebook e Spyder(anaconda)**
 2. **Python**
 3. **Pandas**
 4. **Numpy**
