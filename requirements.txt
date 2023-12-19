@@ -129,6 +129,7 @@ rich @ file:///C:/b/abs_09j2g5qnu8/croot/rich_1684282185530/work
 rope @ file:///C:/b/abs_55g_tm_6ff/croot/rope_1676675029164/work
 rpds-py @ file:///C:/b/abs_76j4g4la23/croot/rpds-py_1698947348047/work
 Rtree @ file:///C:/b/abs_e116ltblik/croot/rtree_1675157871717/work
+scipy==1.11.4
 seaborn==0.13.0
 sip @ file:///C:/b/abs_edevan3fce/croot/sip_1698675983372/work
 six @ file:///tmp/build/80754af9/six_1644875935023/work

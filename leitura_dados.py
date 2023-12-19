@@ -11,6 +11,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from matplotlib import pyplot as plt
 
+
 df = pd.read_csv("911.csv")
 
 #Verifique a info() do df
